@@ -2,7 +2,7 @@
 GoamaAI Cracked by SkiderKiller,Lol
 
 # Easy to use
-To upload the GoamaAIServer program to a Linux server, you need to grant the program permission to run (I believe you all will). After completing the above steps, enter ./GoamaAIServer command can be run
+To upload the GoamaAIServer program to a Linux server, you need to grant the program permission to run (I believe you all will). After completing the above steps, enter ./GoamaAIServer command can be run.
 
 # Nginx config
 location / {
@@ -18,3 +18,6 @@ location / {
 
 # Bind Domain
 ai.luren.best
+
+# What is in the Client folder?
+It is the AI system that we removed all hidden piles and replaced Domain.
